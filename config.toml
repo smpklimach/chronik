@@ -1,0 +1,50 @@
+languageCode = "de-de"
+title = "Cistercienser Chronik"
+theme = "Chronik"
+baseurl = "https://www.cistercienserchronik.at/"
+
+[params]
+description = "Zeitschrift für Geschichte, Kunst, Literatur und Spiritualtiät des Mönchtums"
+logoimage = "img/logo.png"
+copyright = "Abtei Wettingen-Mehrerau"
+
+aliases = ["http://www.cistercienserchronik.at"]
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Start"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "Redaktion"
+url = "/redaktion/"
+
+[[menu.main]]
+weight = 3
+name = "Ausgaben der CistC"
+url = "/archiv/"
+identifier = "archiv"
+ 
+
+[[menu.main]]
+weight = 4
+name = "Bestellen"
+url = "/bestellen/"
+
+[[menu.main]]
+weight = 5
+name = "Veröffentlichen"
+url = "/autoren/"
+
+
+[[menu.main]]
+weight = 6
+name = "Impressum"
+url = "/impressum/"

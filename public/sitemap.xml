@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.cistercienserchronik.at/redaktion/</loc>
+    <lastmod>2019-09-13T07:51:49+01:00</lastmod>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/archiv/</loc>
+    <lastmod>2017-03-27T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/autoren/</loc>
+    <lastmod>2017-03-19T13:21:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/bestellen/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/impressum/</loc>
+  </url><url>
+    <loc>https://www.cistercienserchronik.at/tags/</loc>
+  </url>
+</urlset>
